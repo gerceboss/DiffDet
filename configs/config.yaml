@@ -1,0 +1,10 @@
+num_classes: 3  # person, car, dog
+num_images: 100
+batch_size: 8
+epochs: 25
+num_proposals: 25
+timesteps: 100
+lr: 1e-4
+image_size: 224
+dataset_root: "dataset"
+test_split_ratio: 0.2  # 20% of data for testing
