@@ -96,3 +96,4 @@ valuation outputs:
      - Boxes distributed across the image, not just corners
 
 NOTE: This is a very lightweight version of original DiffusionDet model
+REFERENCE: [DiffusionDet Paper](https://arxiv.org/abs/2211.09788), [Official Implementation](https://github.com/ShoufaChen/DiffusionDet)
